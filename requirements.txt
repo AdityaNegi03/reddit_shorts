@@ -3,3 +3,4 @@ moviepy
 gtts
 google-api-python-client
 python-dotenv
+openai
